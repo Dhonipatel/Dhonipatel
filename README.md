@@ -31,17 +31,22 @@ Email Me 👉 ✉️ **iamdhonni@gamil** For Collaboration/Project or Anything E
 ## 📊 GITHUB PRESENCE
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhonipatel&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=5BCDEC&area=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhonipatel&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true)
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhonipatel&theme=tokyonight" alt="Profile Summary" />
+<img
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhonipatel&theme=github_dark&cache_seconds=86400"
+  alt="Profile Summary"
+/>
 
 </div>
-
 ---
 
 
