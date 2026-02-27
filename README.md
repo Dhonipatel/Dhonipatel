@@ -9,8 +9,6 @@ Email Me 👉 ✉️ **iamdhonni@gamil** For Collaboration/Project or Anything E
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** iamdhonni@gmail.com
-- 😄 **Pronouns:** Superman
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 
