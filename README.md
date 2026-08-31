@@ -4,6 +4,12 @@
   <img alt="Profile banner" src="dark.svg">
 </picture>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <!--
 **Dhonipatel/Dhonipatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
