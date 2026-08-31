@@ -4,6 +4,12 @@
   <img alt="Profile banner" src="dark.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Profile banner" src="dark.svg">
+</picture>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
