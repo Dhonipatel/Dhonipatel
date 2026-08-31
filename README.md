@@ -1,4 +1,8 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Profile banner" src="dark.svg">
+</picture>
 
 <!--
 **Dhonipatel/Dhonipatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
