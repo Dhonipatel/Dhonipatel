@@ -12,15 +12,16 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dhonipatel&show_icons=true&hide_border=true&bg_color=030712&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhonipatel&layout=compact&hide_border=true&bg_color=030712&title_color=7C3AED&text_color=F8FAFC" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhonipatel&bg_color=030712&color=F8FAFC&line=7C3AED&point=22D3EE&area=true&area_color=22D3EE&title_color=F8FAFC&hide_border=true" />
 </p>
 
+## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhonipatel&background=030712&border=030712&ring=7C3AED&fire=22D3EE&currStreakLabel=10B981&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" />
+  <img src="https://streak-stats.demolab.com/?user=Dhonipatel&background=030712&border=030712&ring=7C3AED&fire=22D3EE&currStreakLabel=10B981&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" />
 </p>
 
 ## 🏆 GitHub Trophies
