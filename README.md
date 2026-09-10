@@ -31,7 +31,33 @@
 </p>
 
 
-#
+## 💡 PHILOSOPHY
+
+<div align="center">
+
+> *" Great software is not just written; it is thoughtfully designed, continuously refined, and built to last."*  
+> — Cory House
+
+<br/>
+
+**Think Deep × Build Smart × Keep Growing**
+
+<br/>
+
+<sub>Not everything I build belongs on GitHub. Some of my best work lives beyond public repositories.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built with Dhoni Patel </sub>
+
+<br/>
+
+
+
 
 
 
